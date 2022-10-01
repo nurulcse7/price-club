@@ -1,3 +1,16 @@
+# Price Club
+
+### Code link: [Click here](https://github.com/nurulcse7/price-club)
+
+### Technology
+
+1.  JavaScript [Docs]()
+2.  React.JS
+3.  heroicons [Docs](https://github.com/tailwindlabs/heroicons)
+4.  Recharts [Docs](https://recharts.org/en-US/)
+5.  Axios [Docs](https://www.npmjs.com/package/axios)
+
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ -->
